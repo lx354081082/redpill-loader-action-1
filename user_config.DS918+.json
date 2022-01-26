@@ -9,8 +9,8 @@
     "supportsystemperature": "no",
     "supportsystempwarning": "no",
     "maxdisks" : "1",
-    "internalportcfg" : "0x0001",
-    "esataportcfg" : "0x000"
+    "internalportcfg" : "0xffff",
+    "esataportcfg" : "0x0000"
   },
   "ramdisk_copy": {}
 }

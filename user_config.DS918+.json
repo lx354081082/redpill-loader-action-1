@@ -3,14 +3,13 @@
     "vid": "0x0781",
     "pid": "0x557D",
     "sn": "17A0PDN123456",
+    "netif_num":"1",
     "mac1": "001132123456"
-  },
-  "synoinfo": {
-    "supportsystemperature": "no",
-    "supportsystempwarning": "no",
-    "maxdisks" : "1",
-    "internalportcfg" : "0xffff",
-    "esataportcfg" : "0x0000"
-  },
-  "ramdisk_copy": {}
+    "SataPortMap": "24",
+    "DiskIdxMap": "0400",
+    "SataPortMap": "1",
+    "SasIdxMap": "0"
+    },
+  "ramdisk_copy": {},
+  "extensions": []
 }
